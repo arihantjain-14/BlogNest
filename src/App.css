@@ -1,0 +1,10 @@
+/* App-level overrides */
+.browser-css h1, .browser-css h2, .browser-css h3 { margin: 1.5rem 0 0.75rem; }
+.browser-css ul, .browser-css ol { padding-left: 1.5rem; margin-bottom: 1rem; }
+.browser-css li { margin-bottom: 0.4rem; }
+.browser-css strong { color: var(--text-primary); }
+.browser-css code { background: var(--bg-card); padding: 2px 6px; border-radius: 4px; font-size: 0.9em; color: var(--accent-gold); }
+.browser-css pre { background: var(--bg-card); padding: 1rem; border-radius: 8px; overflow-x: auto; border: 1px solid var(--border-subtle); }
+.browser-css table { width: 100%; border-collapse: collapse; margin-bottom: 1.25rem; }
+.browser-css th, .browser-css td { padding: 10px 14px; border: 1px solid var(--border-subtle); text-align: left; }
+.browser-css th { background: var(--bg-card); color: var(--accent-gold); font-weight: 600; }
