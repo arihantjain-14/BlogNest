@@ -28,7 +28,7 @@ BlogNest allows users to create, manage, and explore blog posts with a clean and
 
 ## 📸 Preview
 
-![Login Page](<./screenshots/Login.png>) ![SignUp Page](<./screenshots/SignUp.png>) ![Homebeforelogin](<./screenshots/Homebeforelogin.png>) ![Footer](<./screenshots/Footer.png>) ![Homeafterlogin](<./screenshots/Homeafterlogin.png>) ![MyPosts](<MyPosts.png>) ![New Post](<./screenshots/NewPost.png>)![All Posts](<./screenshots/AllPosts.png>) ![Content](<./screenshots/Content.png>) ![Edit Post](<./screenshots/EditPost.png>) ![Light Theme](<./screenshots/LightTheme.png>) ![Post](<./screenshots/Postwithbuttons.png>)
+![Login Page](<./screenshots/Login.png>) ![SignUp Page](<./screenshots/SignUp.png>) ![Homebeforelogin](<./screenshots/Homebeforelogin.png>) ![Footer](<./screenshots/Footer.png>) ![Homeafterlogin](<./screenshots/Homeafterlogin.png>) ![MyPosts](<./screenshots/MyPosts.png>) ![New Post](<./screenshots/NewPost.png>)![All Posts](<./screenshots/AllPosts.png>) ![Content](<./screenshots/Content.png>) ![Edit Post](<./screenshots/EditPost.png>) ![Light Theme](<./screenshots/LightTheme.png>) ![Post](<./screenshots/Postwithbuttons.png>)
 
 ---
 
